@@ -1,3 +1,11 @@
+# Individual Project - SPA Videogames
+
+<a href="https://spa-videogame.vercel.app" target="_blank"> Visita el sitio Spa Videogames</a>
+
+<p align="right">
+  <img height="200" src="./videogame.png" />
+</p>
+
 ###Tasks App with MongoDb
 
 <a href="https://task-app-mongodb.herokuapp.com/ target="_blank"> Visita el sitio Tasks App</a>
