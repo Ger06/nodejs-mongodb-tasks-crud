@@ -4,7 +4,7 @@
 
 
 
-#About
+### About
 
 This is Tasks-App. You can write your tasks, change their states to done/undone, delete it or edit it. 
 The title and descriptions are store in Mongo database.
