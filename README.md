@@ -1,5 +1,14 @@
-### Environment  variables 
+#Tasks App with MongoDb
 
-MONGODB_URI
+<a href="https://task-app-mongodb.herokuapp.com/ target="_blank"> Visita el sitio Tasks App</a>
 
-PORT
+#About
+
+This is Tasks-App. You can write your tasks, change their states to done/undone, delete it or edit it. 
+The title and descriptions are store in Mongo database.
+
+Front-end: Boostrap, Handlebars
+Back-end: Node.js, express.js
+Db: MongoDb                                                                
+
+
